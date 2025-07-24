@@ -1,5 +1,5 @@
 {
-    "name": "langleyfoxall/eloquent-report-generator",
+    "name": "clawel2005/eloquent-report-generator",
     "description": "Generates reports from Eloquent models in CSV, PDF, Markdown, HTML, etc.",
     "type": "library",
     "license": "LGPL-3.0-only",
