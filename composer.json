@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "divineomega/uxdm": "^4.0.2",
-        "illuminate/database": "^5.1|| ^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0",
+        "divineomega/uxdm": "dev-master",
+        "illuminate/database": "^5.1|| ^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0 || ^11.0 || 12.0",
         "php": "^7.4 || ^8.0",
         "divineomega/uxdm-eloquent": "^3.2"
     },
